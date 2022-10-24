@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "01",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-1.jpg",
+        "title" : "Become a product Manager learn the skills & job.",
+        "lesson" : "43 Lesson",
+        "ratting" : "4.5 (14)"
+    },
+    {
+        "id" : "02",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-2.jpg",
+        "title" : "Fundamentals of music theory Learn new",
+        "lesson" : "72 Lesson",
+        "ratting" : "4.0 (16)"
+    },
+    {
+        "id" : "03",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-3.jpg",
+        "title": "Bases Matemáticas dios Álgebra Ecuacion",
+        "lesson" : "35 Lesson",
+        "ratting" : "4.3 (17)"
+    },
+    {
+        "id" : "04",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-4.jpg",
+        "title" : "Strategy law and organization Foundation",
+        "lesson" : "60 Lesson",
+        "ratting" : "3.5 (20)"
+    },
+    {
+        "id" : "05",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-5.jpg",
+        "title" : "The business Intelligence analyst Course 2022",
+        "lesson" : "28 Lesson",
+        "ratting" : "4.5 (22)"
+    },
+    {
+        "id" : "06",
+        "img" : "https://react-educal.netlify.app/assets/img/course/course-6.jpg",
+        "title" : "Bases Matemáticas dios Álgebra Ecuacion",
+        "lesson" : "38 Lesson",
+        "ratting" : "4.8 (25)"
+    }
+]
