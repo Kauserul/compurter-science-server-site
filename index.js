@@ -9,7 +9,7 @@ const course = require('./data/course.json')
 const category = require('./data/category.json')
 
 app.get('/', (req, res) =>{
-    res.send('API start...')
+    res.send('Our Api is runing')
 })
 
 app.get('/courses/:id', (req, res) =>{
