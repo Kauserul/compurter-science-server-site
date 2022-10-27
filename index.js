@@ -9,7 +9,7 @@ const course = require('./data/course.json')
 const category = require('./data/category.json')
 
 app.get('/', (req, res) =>{
-    res.send('API Running soon...')
+    res.send('API start...')
 })
 
 app.get('/courses/:id', (req, res) =>{
@@ -32,6 +32,4 @@ app.get('/courses', (req, res) =>{
     res.send(course)
 })
 
-app.listen(port, ()=>{
-    console.log('Server running', port)
-})
+app.listen(port, () => console.log('server runing' , port))
